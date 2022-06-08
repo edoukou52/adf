@@ -1,0 +1,9 @@
+{
+	"name": "datafactedou",
+	"location": "francecentral",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "b0ad93ad-035d-490d-9f77-6b9902954f51",
+		"tenantId": "c2270330-92f7-4c35-8a35-ba7fe60daaf9"
+	}
+}
