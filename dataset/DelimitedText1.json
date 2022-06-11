@@ -10,8 +10,7 @@
 		"typeProperties": {
 			"location": {
 				"type": "AzureBlobStorageLocation",
-				"fileName": "Emp.txt",
-				"container": "tbinput"
+				"container": "archiv"
 			},
 			"columnDelimiter": ",",
 			"escapeChar": "\\",
